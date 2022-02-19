@@ -1,0 +1,14 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//scss
+@import 'header','body','all_course','course_detail','lessons_detail','profile';
+
+//carousel
+@import '~slick-carousel/slick/slick';
